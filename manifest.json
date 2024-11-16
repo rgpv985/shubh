@@ -1,0 +1,21 @@
+{
+  "short_name": "AutoEX",
+  "name": "RGPV Result",
+  "icons": [
+    {
+      "src": "/icon256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#4f93ce",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#4f93ce"
+}
